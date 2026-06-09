@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        double springCost = 200.00;   // lawn care, planting
-        double summerCost = 150.00;   // pest control, AC tune-up
-        double fallCost = 100.00;     // gutter cleaning, leaf removal
-        double winterCost = 50.00;    // weatherproofing, salt/sand
+        double springCost = 200.00;
+        double summerCost = 150.00;
+        double fallCost = 100.00;
+        double winterCost = 50.00;
         double totalYearlyCost = 0.0;
 
         totalYearlyCost = springCost + summerCost + fallCost + winterCost;
